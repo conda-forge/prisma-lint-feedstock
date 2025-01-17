@@ -1,5 +1,5 @@
 context:
-  version: "0.7.0"
+  version: "0.8.0"
 
 package:
   name: prisma-lint
@@ -7,7 +7,7 @@ package:
 
 source:
   url: https://registry.npmjs.org/prisma-lint/-/prisma-lint-${{ version }}.tgz
-  sha256: e00ea4aaf2349f1fe599a0d94b9367093fb639baf235585cf225e5c4e834d779
+  sha256: 8c635368d6269955b0e1b9ca5bb4638623634105922f98b8c55ba84046e2fb8b
 
 build:
   number: 0
